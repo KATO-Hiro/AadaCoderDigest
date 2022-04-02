@@ -1,0 +1,87 @@
+# See:
+# https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+
+
+# Project information
+site_name: AadaCoder Digest
+site_url: https://KATO-Hiro.github.io/AtCoderAadaCoderDigest/
+site_author: hiro_hiro
+site_description: >-
+  Summarize the live broadcast of AtCoder
+
+
+# GitHub Repository
+repo_name: KATO-Hiro/AadaCoderDigest
+repo_url: https://github.com/KATO-Hiro/AadaCoderDigest
+
+
+# Copyright
+copyright: Copyright &copy; 2022 -  hiro_hiro
+
+
+## Basic Configuration
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  icon:
+    logo: material/movie-open
+    repo: fontawesome/brands/github
+  favicon: images/favicon.png
+
+
+# Plugins
+plugins:
+  - search:
+      lang:
+      - ja
+      - en
+
+
+# Customization
+extra_css:
+  - stylesheets/extra.css
+
+
+# Extensions
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - tables
+
+
+# Page tree
+nav:
+  - Home: index.md
+  - Overview:
+    - overview/overview.md
+    - guest/guest_list.md
+    - license/index.md
+    - changelog.md
+    - contact.md
+    - contributing.md
+    - design.md
+  - Latest: details/latest.md
+  - Archives:
+    - 2022:
+      - details/archives/2022/52nd.md

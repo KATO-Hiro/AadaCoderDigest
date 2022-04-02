@@ -1,0 +1,9 @@
+{
+  "ignorePatterns": [
+  ],
+  "showProgressBar": true,
+  "timeout": "3m",
+  "retryOn429": true,
+  "fallbackRetryDelay": "75s",
+  "retryCount": 8
+}

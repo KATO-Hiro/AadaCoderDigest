@@ -2,7 +2,7 @@
 
 各放送回の目次をまとめています。
 
-## 第52回 <small>_ 2022年3月8日 [(詳細)](../../details/archives/2022/52nd)</small>
+## 第52回 <small>_ 2022年3月8日 [(詳細)](https://kato-hiro.github.io/AadaCoderDigest/details/archives/2022/52nd)</small>
 
 - [00:00:00](https://youtu.be/ht5lVjxEzqo?t=0) - 開始
 - [00:03:41](https://youtu.be/ht5lVjxEzqo?t=221) - コンテストにおけるルール確認と不正者への対応

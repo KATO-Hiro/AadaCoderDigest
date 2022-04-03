@@ -1,12 +1,5 @@
 {
-  "baseUrl": "https://kato-hiro.github.io/AadaCoderDigest",
   "ignorePatterns": [
-  ],
-  "replacementPatterns": [
-    {
-      "pattern": "^../../",
-      "replacement": "{{BASEURL}}/"
-    }
   ],
   "showProgressBar": true,
   "timeout": "3m",

@@ -6,6 +6,10 @@
     {
       "pattern": "^/docs",
       "replacement": "{{BASEURL}}/docs"
+    },
+    {
+      "pattern": "^../..",
+      "replacement": "{{BASEURL}}/docs"
     }
   ],
   "showProgressBar": true,

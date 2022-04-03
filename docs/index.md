@@ -30,5 +30,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * TODO: Write here!
 * TODO: Write here!
 
-[Overview](overview/overview){ .md-button .md-button--primary }
-[View Latest](details/latest){ .md-button .md-button--secondary }
+[Overview](https://kato-hiro.github.io/AadaCoderDigest/overview/overview){ .md-button .md-button--primary }
+[View Latest](https://kato-hiro.github.io/AadaCoderDigest/details/latest){ .md-button .md-button--secondary }

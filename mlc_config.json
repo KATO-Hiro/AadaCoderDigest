@@ -7,8 +7,8 @@
       "replacement": "{{BASEURL}}/docs"
     },
     {
-      "pattern": "^/",
-      "replacement": "/github/workspace/"
+      "pattern": "^/../../",
+      "replacement": "docs/"
     }
   ],
   "showProgressBar": true,

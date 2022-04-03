@@ -1,10 +1,11 @@
 {
+  "baseUrl": "https://kato-hiro.github.io/AadaCoderDigest",
   "ignorePatterns": [
   ],
   "replacementPatterns": [
     {
-      "pattern": "^../..",
-      "replacement": "^docs"
+      "pattern": "^../../",
+      "replacement": "{{BASEURL}}/"
     }
   ],
   "showProgressBar": true,

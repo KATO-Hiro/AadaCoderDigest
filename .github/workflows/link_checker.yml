@@ -16,3 +16,5 @@ jobs:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
         base-branch: 'main'
+        folder-path: 'docs'
+        file-path: './README.md'

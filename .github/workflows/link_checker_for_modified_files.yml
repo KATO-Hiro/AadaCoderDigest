@@ -13,3 +13,5 @@ jobs:
         use-verbose-mode: 'yes'
         check-modified-files-only: 'yes'
         base-branch: 'main'
+        folder-path: 'docs'
+        file-path: './README.md'

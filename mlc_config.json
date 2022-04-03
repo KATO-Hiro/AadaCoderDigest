@@ -9,7 +9,7 @@
     },
     {
       "pattern": "^../..",
-      "replacement": "{{BASEURL}}/docs"
+      "replacement": "docs"
     }
   ],
   "showProgressBar": true,

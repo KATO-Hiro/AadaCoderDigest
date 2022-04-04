@@ -18,3 +18,14 @@
 - [00:18:51](https://youtu.be/ht5lVjxEzqo?t=1131){.internal-link target=_blank} - コンテスト予定
 - [00:23:01](https://youtu.be/ht5lVjxEzqo?t=1381){.internal-link target=_blank} - [chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが参加・登壇するイベント
 - [00:26:47](https://youtu.be/ht5lVjxEzqo?t=1607){.internal-link target=_blank} - ゲスト: [terry_u16](https://atcoder.jp/users/terry_u16){.internal-link target=_blank}さんとの対談
+
+## 第51回 <small>_ 2022年2月22日 </small>
+
+- [00:00:00](https://youtu.be/Q-RHzagU6OM?t=0){.internal-link target=_blank} - 開始
+- [00:02:17](https://youtu.be/Q-RHzagU6OM?t=137){.internal-link target=_blank} - 「[デンソークリエイトプログラミングコンテスト2022（AtCoder Beginner Contest 239）](https://atcoder.jp/contests/abc239){.internal-link target=_blank}」の開催延期に対する謝罪とランキングページへの大量アクセス対策
+- [00:05:24](https://youtu.be/Q-RHzagU6OM?t=324){.internal-link target=_blank} - 2023年卒オンラインマッチングイベントの申し込みの締切
+- [00:08:00](https://youtu.be/Q-RHzagU6OM?t=480){.internal-link target=_blank} - コンテスト予定
+- [00:11:57](https://youtu.be/Q-RHzagU6OM?t=717){.internal-link target=_blank} - 第10回アルゴリズム実技検定(PAST)の開催予告と変更点
+- [00:12:37](https://youtu.be/Q-RHzagU6OM?t=757){.internal-link target=_blank} - ランキングページの扱いと現状
+- [00:20:40](https://youtu.be/Q-RHzagU6OM?t=1240){.internal-link target=_blank} - お知らせのまとめ
+- [00:21:35](https://youtu.be/Q-RHzagU6OM?t=1295){.internal-link target=_blank} - ユーザの質問に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答

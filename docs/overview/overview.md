@@ -58,3 +58,11 @@
 - [00:12:26](https://youtu.be/sXG-Oy6SZ_E?t=746){.internal-link target=_blank} - コンテスト予定
 - [00:18:24](https://youtu.be/sXG-Oy6SZ_E?t=1104){.internal-link target=_blank} - [公式グッズの販売](https://suzuri.jp/AtCoder){.internal-link target=_blank}と[AtCoder Jobs](https://jobs.atcoder.jp/){.internal-link target=_blank}の紹介
 - [00:20:38](https://youtu.be/sXG-Oy6SZ_E?t=1238){.internal-link target=_blank} - [ユーザの質問](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答
+
+## 第47回 <small>_ 2021年12月01日 </small>
+
+- [00:00:00](https://youtu.be/kN5V4M0BEOU?t=0){.internal-link target=_blank} - 開始
+- [00:05:37](https://youtu.be/kN5V4M0BEOU?t=337){.internal-link target=_blank} - コンテスト予定
+- [00:07:02](https://youtu.be/kN5V4M0BEOU?t=422){.internal-link target=_blank} - [第9回アルゴリズム実技検定(PAST)](https://atcoder.jp/contests/past202112-open){.internal-link target=_blank}の申し込み受付中
+- [00:08:45](https://youtu.be/kN5V4M0BEOU?t=525){.internal-link target=_blank} - 「[Rated / Unrated登録機能](https://atcoder.jp/posts/744){.internal-link target=_blank}」に関する説明・注意事項
+- [00:27:42](https://youtu.be/kN5V4M0BEOU?t=1662){.internal-link target=_blank} - [ユーザの質問](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答

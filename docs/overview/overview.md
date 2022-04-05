@@ -50,3 +50,11 @@
 - [00:20:09](https://youtu.be/y--OiK8Cyrg?t=1209){.internal-link target=_blank} - 企業向けのプログラミングスキル判定サービス[TOPSIC](https://products.sint.co.jp/topsic){.internal-link target=_blank}の紹介
 - [00:23:42](https://youtu.be/y--OiK8Cyrg?t=1422){.internal-link target=_blank} - 「[Hitachi Hokudai Lab. & Hokkaido University Contest 2021](https://atcoder.jp/contests/hokudai-hitachi2021){.internal-link target=_blank}」の近況報告・所感
 - [00:25:04](https://youtu.be/y--OiK8Cyrg?t=1504){.internal-link target=_blank} - [ユーザの質問](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答
+
+## 第48回 <small>_ 2021年12月15日 </small>
+
+- [00:00:00](https://youtu.be/sXG-Oy6SZ_E?t=0){.internal-link target=_blank} - 開始
+- [00:11:45](https://youtu.be/sXG-Oy6SZ_E?t=705){.internal-link target=_blank} - [第9回アルゴリズム実技検定(PAST)](https://atcoder.jp/contests/past202112-open){.internal-link target=_blank}の通常受験
+- [00:12:26](https://youtu.be/sXG-Oy6SZ_E?t=746){.internal-link target=_blank} - コンテスト予定
+- [00:18:24](https://youtu.be/sXG-Oy6SZ_E?t=1104){.internal-link target=_blank} - [公式グッズの販売](https://suzuri.jp/AtCoder){.internal-link target=_blank}と[AtCoder Jobs](https://jobs.atcoder.jp/){.internal-link target=_blank}の紹介
+- [00:20:38](https://youtu.be/sXG-Oy6SZ_E?t=1238){.internal-link target=_blank} - [ユーザの質問](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答

@@ -29,3 +29,13 @@
 - [00:12:37](https://youtu.be/Q-RHzagU6OM?t=757){.internal-link target=_blank} - ランキングページの扱いと現状
 - [00:20:40](https://youtu.be/Q-RHzagU6OM?t=1240){.internal-link target=_blank} - お知らせのまとめ
 - [00:21:35](https://youtu.be/Q-RHzagU6OM?t=1295){.internal-link target=_blank} - ユーザの質問に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答
+
+## 第50回 <small>_ 2022年2月08日 </small>
+
+- [00:00:00](https://youtu.be/qmsNsMakZoo?t=0){.internal-link target=_blank} - 開始
+- [00:03:51](https://youtu.be/qmsNsMakZoo?t=231){.internal-link target=_blank} - ヒューリスティックコンテストのレーティングシステムが正式実装
+- [00:07:55](https://youtu.be/qmsNsMakZoo?t=475){.internal-link target=_blank} - 2023年卒就活イベントの案内
+- [00:11:37](https://youtu.be/qmsNsMakZoo?t=697){.internal-link target=_blank} - コンテスト予定
+- [00:17:27](https://youtu.be/qmsNsMakZoo?t=1047){.internal-link target=_blank} - AtCoder Jobsの紹介、第10回アルゴリズム実技検定(PAST)の開催予告と変更点
+- [00:23:53](https://youtu.be/qmsNsMakZoo?t=1433){.internal-link target=_blank} - お知らせのまとめ
+- [00:29:59](https://youtu.be/qmsNsMakZoo?t=1799){.internal-link target=_blank} - ユーザの質問に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答

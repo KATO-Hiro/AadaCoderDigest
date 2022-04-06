@@ -75,3 +75,12 @@
 - [00:13:29](https://youtu.be/_Kshag8JigQ?t=809){.internal-link target=_blank} - コンテスト予定
 - [00:24:02](https://youtu.be/_Kshag8JigQ?t=1442){.internal-link target=_blank} - [AtCoder Beginner Contest 230](https://atcoder.jp/contests/abc230){.internal-link target=_blank}が平日開催に至った経緯
 - [00:27:01](https://youtu.be/_Kshag8JigQ?t=1621){.internal-link target=_blank} - [ユーザの質問](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答
+
+## 第45回 <small>_ 2021年11月02日 </small>
+
+- [00:00:00](https://youtu.be/SbtpiZ59K3M?t=0){.internal-link target=_blank} - 開始
+- [00:08:18](https://youtu.be/SbtpiZ59K3M?t=498){.internal-link target=_blank} - コンテスト予定
+- [00:16:25](https://youtu.be/SbtpiZ59K3M?t=985){.internal-link target=_blank} - [ランキングページ](https://atcoder.jp/hof){.internal-link target=_blank}の殿堂入りユーザを紹介
+- [00:19:06](https://youtu.be/SbtpiZ59K3M?t=1146){.internal-link target=_blank} - [AtCoderJobs](https://jobs.atcoder.jp/){.internal-link target=_blank}の紹介
+- [00:19:57](https://youtu.be/SbtpiZ59K3M?t=1197){.internal-link target=_blank} - 記事[「AtCoder 競技プログラマー就職企業人気ランキング2021」](https://prtimes.jp/main/html/rd/p/000000035.000028415.html){.internal-link target=_blank}の発表
+- [00:30:43](https://youtu.be/SbtpiZ59K3M?t=1843){.internal-link target=_blank} - ゲスト: [フューチャー株式会社](https://www.future.co.jp){.internal-link target=_blank}取締役CTO・齋藤さんとの対談

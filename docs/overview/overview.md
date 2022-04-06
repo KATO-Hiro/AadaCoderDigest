@@ -88,7 +88,15 @@
 ## 第44回 <small>_ 2021年10月27日 </small>
 
 - [00:00:00](https://youtu.be/CPphpNFsTf0?t=0){.internal-link target=_blank} - 開始
-- [00:5:45](https://youtu.be/CPphpNFsTf0?t=345){.internal-link target=_blank} - コンテスト予定
+- [00:05:45](https://youtu.be/CPphpNFsTf0?t=345){.internal-link target=_blank} - コンテスト予定
 - [00:24:48](https://youtu.be/CPphpNFsTf0?t=1488){.internal-link target=_blank} - [AtCoderJobs](https://jobs.atcoder.jp/){.internal-link target=_blank}の紹介
 - [00:26:04](https://youtu.be/CPphpNFsTf0?t=1564){.internal-link target=_blank} - [PG BATTLE 2021](https://products.sint.co.jp/pg_battle_2021){.internal-link target=_blank}の結果発表会の案内
 - [00:29:44](https://youtu.be/CPphpNFsTf0?t=1784){.internal-link target=_blank} - ゲスト: [京セラ株式会社](https://www.kyocera.co.jp/){.internal-link target=_blank}研究開発本部フューチャーデザインラボ・金岡氏との対談
+
+## 第43回 <small>_ 2021年10月13日 </small>
+
+- [00:00:00](https://youtu.be/Z1hLjnvT-ck?t=0){.internal-link target=_blank} - 開始
+- [00:04:53](https://youtu.be/Z1hLjnvT-ck?t=293){.internal-link target=_blank} - コンテスト予定
+- [00:14:11](https://youtu.be/Z1hLjnvT-ck?t=851){.internal-link target=_blank} - [第8回アルゴリズム実技検定(PAST)](https://atcoder.jp/contests/past202109-open){.internal-link target=_blank}の過去問と解説を公開
+- [00:19:45](https://youtu.be/Z1hLjnvT-ck?t=1185){.internal-link target=_blank} - 漫画「[100日後に退職する47歳](https://twitter.com/tome_ura){.internal-link target=_blank}」との関連性
+- [00:22:43](https://youtu.be/Z1hLjnvT-ck?t=1363){.internal-link target=_blank} - [ユーザの質問](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答

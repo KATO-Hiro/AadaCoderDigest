@@ -66,3 +66,12 @@
 - [00:07:02](https://youtu.be/kN5V4M0BEOU?t=422){.internal-link target=_blank} - [第9回アルゴリズム実技検定(PAST)](https://atcoder.jp/contests/past202112-open){.internal-link target=_blank}の申し込み受付中
 - [00:08:45](https://youtu.be/kN5V4M0BEOU?t=525){.internal-link target=_blank} - 「[Rated / Unrated登録機能](https://atcoder.jp/posts/744){.internal-link target=_blank}」に関する説明・注意事項
 - [00:27:42](https://youtu.be/kN5V4M0BEOU?t=1662){.internal-link target=_blank} - [ユーザの質問](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答
+
+## 第46回 <small>_ 2021年11月17日 </small>
+
+- [00:00:00](https://youtu.be/_Kshag8JigQ?t=0){.internal-link target=_blank} - 開始
+- [00:03:44](https://youtu.be/_Kshag8JigQ?t=224){.internal-link target=_blank} - ジャッジシステムの障害対応
+- [00:10:25](https://youtu.be/_Kshag8JigQ?t=625){.internal-link target=_blank} - 「[Hitachi Hokudai Lab. & Hokkaido University Contest 2021](https://atcoder.jp/contests/hokudai-hitachi2021){.internal-link target=_blank}」の開催
+- [00:13:29](https://youtu.be/_Kshag8JigQ?t=809){.internal-link target=_blank} - コンテスト予定
+- [00:24:02](https://youtu.be/_Kshag8JigQ?t=1442){.internal-link target=_blank} - [AtCoder Beginner Contest 230](https://atcoder.jp/contests/abc230){.internal-link target=_blank}が平日開催に至った経緯
+- [00:27:01](https://youtu.be/_Kshag8JigQ?t=1621){.internal-link target=_blank} - [ユーザの質問](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}に[chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが回答

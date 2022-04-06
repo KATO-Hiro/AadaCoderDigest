@@ -83,4 +83,12 @@
 - [00:16:25](https://youtu.be/SbtpiZ59K3M?t=985){.internal-link target=_blank} - [ランキングページ](https://atcoder.jp/hof){.internal-link target=_blank}の殿堂入りユーザを紹介
 - [00:19:06](https://youtu.be/SbtpiZ59K3M?t=1146){.internal-link target=_blank} - [AtCoderJobs](https://jobs.atcoder.jp/){.internal-link target=_blank}の紹介
 - [00:19:57](https://youtu.be/SbtpiZ59K3M?t=1197){.internal-link target=_blank} - 記事[「AtCoder 競技プログラマー就職企業人気ランキング2021」](https://prtimes.jp/main/html/rd/p/000000035.000028415.html){.internal-link target=_blank}の発表
-- [00:30:43](https://youtu.be/SbtpiZ59K3M?t=1843){.internal-link target=_blank} - ゲスト: [フューチャー株式会社](https://www.future.co.jp){.internal-link target=_blank}取締役CTO・齋藤さんとの対談
+- [00:30:43](https://youtu.be/SbtpiZ59K3M?t=1843){.internal-link target=_blank} - ゲスト: [フューチャー株式会社](https://www.future.co.jp){.internal-link target=_blank}取締役CTO・齋藤氏との対談
+
+## 第44回 <small>_ 2021年10月27日 </small>
+
+- [00:00:00](https://youtu.be/CPphpNFsTf0?t=0){.internal-link target=_blank} - 開始
+- [00:5:45](https://youtu.be/CPphpNFsTf0?t=345){.internal-link target=_blank} - コンテスト予定
+- [00:24:48](https://youtu.be/CPphpNFsTf0?t=1488){.internal-link target=_blank} - [AtCoderJobs](https://jobs.atcoder.jp/){.internal-link target=_blank}の紹介
+- [00:26:04](https://youtu.be/CPphpNFsTf0?t=1564){.internal-link target=_blank} - [PG BATTLE 2021](https://products.sint.co.jp/pg_battle_2021){.internal-link target=_blank}の結果発表会の案内
+- [00:29:44](https://youtu.be/CPphpNFsTf0?t=1784){.internal-link target=_blank} - ゲスト: [京セラ株式会社](https://www.kyocera.co.jp/){.internal-link target=_blank}研究開発本部フューチャーデザインラボ・金岡氏との対談

@@ -30,8 +30,6 @@
 
 [AtCoder](https://atcoder.jp/)
 
-[本レポジトリ作成のきっかけとなったツイート](https://twitter.com/maspy_stars/status/1506293908946702336)
-
 [Readme Driven Development; RDD](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
 
 ## レポジトリ作者

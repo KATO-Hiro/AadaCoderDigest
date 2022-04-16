@@ -108,3 +108,11 @@
 - [00:14:11](https://youtu.be/Z1hLjnvT-ck?t=851){.internal-link target=_blank} - [第8回アルゴリズム実技検定(PAST)](https://atcoder.jp/contests/past202109-open){.internal-link target=_blank}の過去問と解説を公開
 - [00:19:45](https://youtu.be/Z1hLjnvT-ck?t=1185){.internal-link target=_blank} - 漫画「[100日後に退職する47歳](https://twitter.com/tome_ura){.internal-link target=_blank}」との関連性
 - [00:22:43](https://youtu.be/Z1hLjnvT-ck?t=1363){.internal-link target=_blank} - 匿名のメッセージサービス・[マシュマロ](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}を活用した質問・回答
+
+## 第42回 <small>_ 2021年09月22日 </small>
+
+- [00:00:00](https://youtu.be/Ab_p5_lN3zU?t=0){.internal-link target=_blank} - 開始
+- [00:10:03](https://youtu.be/Ab_p5_lN3zU?t=603){.internal-link target=_blank} - コンテスト予定
+- [00:24:32](https://youtu.be/Ab_p5_lN3zU?t=1472){.internal-link target=_blank} - [第8回アルゴリズム実技検定(PAST)](https://atcoder.jp/contests/past202109-open){.internal-link target=_blank}の通常受験の案内
+- [00:26:15](https://youtu.be/Ab_p5_lN3zU?t=1575){.internal-link target=_blank} - [PG BATTLE 2021](https://products.sint.co.jp/pg_battle_2021){.internal-link target=_blank}の開催案内
+- [00:29:07](https://youtu.be/Ab_p5_lN3zU?t=1747){.internal-link target=_blank} - 匿名のメッセージサービス・[マシュマロ](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}を活用した質問・回答

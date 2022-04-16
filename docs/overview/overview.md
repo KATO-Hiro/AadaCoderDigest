@@ -116,3 +116,13 @@
 - [00:24:32](https://youtu.be/Ab_p5_lN3zU?t=1472){.internal-link target=_blank} - [第8回アルゴリズム実技検定(PAST)](https://atcoder.jp/contests/past202109-open){.internal-link target=_blank}の通常受験の案内
 - [00:26:15](https://youtu.be/Ab_p5_lN3zU?t=1575){.internal-link target=_blank} - [PG BATTLE 2021](https://products.sint.co.jp/pg_battle_2021){.internal-link target=_blank}の開催案内
 - [00:29:07](https://youtu.be/Ab_p5_lN3zU?t=1747){.internal-link target=_blank} - 匿名のメッセージサービス・[マシュマロ](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}を活用した質問・回答
+
+## 第41回 <small>_ 2021年09月01日 </small>
+
+- [00:00:00](https://youtu.be/wm4DbzsGOLs?t=0){.internal-link target=_blank} - 開始
+- [00:02:57](https://youtu.be/wm4DbzsGOLs?t=177){.internal-link target=_blank} - AtCoder人気ランキング2021の投票のお礼・今後の活用方法
+- [00:07:35](https://youtu.be/wm4DbzsGOLs?t=455){.internal-link target=_blank} - コンテストの振り返り・予定
+- [00:19:06](https://youtu.be/wm4DbzsGOLs?t=1146){.internal-link target=_blank} - 2023年卒オンラインイベントの開催案内
+- [00:20:52](https://youtu.be/wm4DbzsGOLs?t=1252){.internal-link target=_blank} - [AtCoderJobs](https://jobs.atcoder.jp/){.internal-link target=_blank}の不具合修正報告
+- [00:22:10](https://youtu.be/wm4DbzsGOLs?t=1330){.internal-link target=_blank} - AtCoder Beginner Contestの難易度調整について
+- [00:28:06](https://youtu.be/wm4DbzsGOLs?t=1686){.internal-link target=_blank} - 匿名のメッセージサービス・[マシュマロ](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}を活用した質問・回答

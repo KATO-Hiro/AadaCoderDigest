@@ -2,6 +2,14 @@
 
 各放送回の目次をまとめています。
 
+## 第54回 <small>_ 2022年04月12日 </small>
+
+- [00:00:00](https://youtu.be/Sj5z38Ikct8?t=0){.internal-link target=_blank} - 開始
+- [00:05:54](https://youtu.be/Sj5z38Ikct8?t=354){.internal-link target=_blank} - コンテスト予定
+- [00:16:54](https://youtu.be/Sj5z38Ikct8?t=1014){.internal-link target=_blank} - [第10回アルゴリズム実技検定(PAST)](https://past.atcoder.jp/){.internal-link target=_blank}の通常受験の案内
+- [00:17:11](https://youtu.be/Sj5z38Ikct8?t=1031){.internal-link target=_blank} - 有志コンテスト・灘校文化祭コンテスト2022 ([Day1](https://atcoder.jp/contests/nadafes2022_day1){.internal-link target=_blank}、[Day2](https://atcoder.jp/contests/nadafes2022_day2){.internal-link target=_blank})の開催案内
+- [00:18:37](https://youtu.be/Sj5z38Ikct8?t=1117){.internal-link target=_blank} - 匿名のメッセージサービス・[マシュマロ](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}を活用した質問・回答
+
 ## 第53回 <small>_ 2022年03月29日 </small>
 
 - [00:00:00](https://youtu.be/TqIhioUzmmc?t=0){.internal-link target=_blank} - 開始

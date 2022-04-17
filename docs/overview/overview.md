@@ -18,7 +18,7 @@
 - [00:12:47](https://youtu.be/TqIhioUzmmc?t=767){.internal-link target=_blank} - [モノグサ プログラミングコンテスト2022（AtCoder Heuristic Contest 009）](https://atcoder.jp/contests/ahc009){.internal-link target=_blank}のすすめ
 - [00:15:00](https://youtu.be/TqIhioUzmmc?t=900){.internal-link target=_blank} - 匿名のメッセージサービス・[マシュマロ](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}を活用した質問・回答
 
-## 第52回 <small>_ 2022年03月08日 [(詳細)](https://kato-hiro.github.io/AadaCoderDigest/details/archives/2022/52nd)</small>
+## 第52回 <small>_ 2022年03月08日</small>
 
 - [00:00:00](https://youtu.be/ht5lVjxEzqo?t=0){.internal-link target=_blank} - 開始
 - [00:03:41](https://youtu.be/ht5lVjxEzqo?t=221){.internal-link target=_blank} - コンテストにおけるルール確認と不正者への対応
@@ -26,6 +26,14 @@
 - [00:18:51](https://youtu.be/ht5lVjxEzqo?t=1131){.internal-link target=_blank} - コンテスト予定
 - [00:23:01](https://youtu.be/ht5lVjxEzqo?t=1381){.internal-link target=_blank} - [chokudai](https://atcoder.jp/users/chokudai){.internal-link target=_blank}さんが参加・登壇するイベント
 - [00:26:47](https://youtu.be/ht5lVjxEzqo?t=1607){.internal-link target=_blank} - ゲスト: [terry_u16](https://atcoder.jp/users/terry_u16){.internal-link target=_blank}さんとの対談
+
+---
+
+<div align="center">
+    <a href="https://kato-hiro.github.io/AadaCoderDigest/details/archives/2022/52nd">
+    要約を読む
+    </a>
+</div>
 
 ## 第51回 <small>_ 2022年02月22日 </small>
 

@@ -134,3 +134,12 @@
 - [00:20:52](https://youtu.be/wm4DbzsGOLs?t=1252){.internal-link target=_blank} - [AtCoderJobs](https://jobs.atcoder.jp/){.internal-link target=_blank}の不具合修正報告
 - [00:22:10](https://youtu.be/wm4DbzsGOLs?t=1330){.internal-link target=_blank} - AtCoder Beginner Contestの難易度調整について
 - [00:28:06](https://youtu.be/wm4DbzsGOLs?t=1686){.internal-link target=_blank} - 匿名のメッセージサービス・[マシュマロ](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}を活用した質問・回答
+
+## 第40回 <small>_ 2021年08月18日 </small>
+
+- [00:00:00](https://youtu.be/mKMSJ2vHYjw?t=0){.internal-link target=_blank} - 開始
+- [00:05:26](https://youtu.be/mKMSJ2vHYjw?t=326){.internal-link target=_blank} - AtCoder人気ランキング2021の投票案内
+- [00:07:27](https://youtu.be/mKMSJ2vHYjw?t=447){.internal-link target=_blank} - コンテストの振り返り・予定
+- [00:15:29](https://youtu.be/mKMSJ2vHYjw?t=929){.internal-link target=_blank} - [第8回アルゴリズム実技検定(PAST)](https://atcoder.jp/contests/past202109-open){.internal-link target=_blank}の日程告知
+- [00:17:11](https://youtu.be/mKMSJ2vHYjw?t=1031){.internal-link target=_blank} - [AtCoder Beginner Contest](https://atcoder.jp/contests/archive?ratedType=1&category=0&keyword=){.internal-link target=_blank}(8問体制)における問題の難易度について
+- [00:24:50](https://youtu.be/mKMSJ2vHYjw?t=1490){.internal-link target=_blank} - 匿名のメッセージサービス・[マシュマロ](https://marshmallow-qa.com/atcoder){.internal-link target=_blank}を活用した質問・回答

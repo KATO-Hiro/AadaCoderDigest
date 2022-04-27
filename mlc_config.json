@@ -1,5 +1,11 @@
 {
   "ignorePatterns": [
+    {
+      "pattern": "^../../"
+    },
+    {
+      "pattern": "^../../../../"
+    }
   ],
   "showProgressBar": true,
   "timeout": "3m",

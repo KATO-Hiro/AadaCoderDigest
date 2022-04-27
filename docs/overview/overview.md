@@ -30,7 +30,7 @@
 ---
 
 <div align="center">
-    <a href="https://kato-hiro.github.io/AadaCoderDigest/details/archives/2022/52nd">
+    <a href="../../details/archives/2022/52nd">
     要約を読む
     </a>
 </div>

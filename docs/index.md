@@ -4,10 +4,10 @@
 
 <p align="center">
     <a href="https://github.com/KATO-Hiro/AadaCoderDigest/actions/workflows/link_checker.yml" target="_blank">
-        <img src="https://img.shields.io/github/workflow/status/KATO-Hiro/AadaCoderDigest/Check%20Markdown%20links%20with%20scheduled%20job?label=Links&style=plastic" alt="Markdown links">
+        <img src="https://img.shields.io/github/actions/workflow/status/KATO-Hiro/AadaCoderDigest/link_checker.yml?branch=main&label=Links&style=plastic" alt="Markdown links">
     </a>
-    <a href="https://github.com/KATO-Hiro/AadaCoderDigest/actions/workflows/pages/pages-build-deployment" target="_blank">
-        <img src="https://img.shields.io/github/workflow/status/KATO-Hiro/AadaCoderDigest/pages%20build%20and%20deployment?label=Pages%20build%20and%20deployment&style=plastic" alt="pages build and deploy">
+    <a href="https://github.com/KATO-Hiro/AadaCoderDigest/actions/workflows/deploy.yml" target="_blank">
+        <img src="https://img.shields.io/github/actions/workflow/status/KATO-Hiro/AadaCoderDigest/deploy.yml?branch=main&label=Deployment&style=plastic" alt="Deployment">
     </a>
 </p>
 

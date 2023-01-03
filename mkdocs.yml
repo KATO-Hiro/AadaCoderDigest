@@ -24,11 +24,15 @@ copyright: Copyright &copy; 2022 - hiro_hiro
 theme:
   name: material
   features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy  
     - navigation.instant
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.footer    
   palette:
     - scheme: default
       primary: light blue
